@@ -1,1 +1,1 @@
-# Movie Buff - Travis Geislinger
+# Movie Fanatic - Travis Geislinger
