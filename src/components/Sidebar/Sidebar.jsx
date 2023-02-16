@@ -27,9 +27,7 @@ const Sidebar = ({ setMobileOpen }) => {
   return (
     <>
       <Link to="/" className={classes.imageLink}>
-        <h1 className={classes.image}>
-          MOVIE BUFF
-        </h1>
+        <img src="/logo-no-background.svg" className={classes.image} alt="logo" />
       </Link>
       <Divider />
       <List>

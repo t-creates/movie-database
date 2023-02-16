@@ -8,8 +8,8 @@ export default makeStyles((theme) => ({
   },
   image: {
     width: '70%',
-    font: 'bold 2.5rem/1.5em "Press Start 2P", oswald, cursive, sans-serif',
     color: theme.palette.text.primary,
+    filter: theme.palette.mode === 'dark' && 'invert(0.3)',
   },
   links: {
     color: theme.palette.text.primary,
