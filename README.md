@@ -1,1 +1,1 @@
-# Movie Fanatic - Travis Geislinger
+# Movie DB - Travis Geislinger
